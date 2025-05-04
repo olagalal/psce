@@ -1,0 +1,27 @@
+from contestants view:
+1- Allow students or contestants to submit programs over a network to contest judges.
+2- View results or standings.
+3- Allow students or teams to send clarification or any questions to judges.
+
+from judges view:
+1- allow judges to add problems to the contest and add their test cases.
+2- allow judges to view source codes of the contestants/students and their results.
+3- Allow judges to issue a broadcast message to student or sontestants.
+4- Allow judges to recompile the submitted program.
+5- Allow judges to send answers to the clarifications sent by contestants.
+6- View results or standings.
+
+
+from system view:
+1- System must be available all time.
+2- System automatically send results to students or contestants after each submission.
+3- System also supports automated judging mode where judging is performed by software rather than by human judges.
+4- System must be reliable when number of teams/users increase.
+5- System automatically timestamps and archives submitted code.
+6- System support multiple contests being held over the same network.
+
+
+** System must support variety of programming languages.
+** System can detect plagiarism
+** Allow student or contestants to view problems.
+** Clocking 
