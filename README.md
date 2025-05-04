@@ -125,6 +125,5 @@ Comprehensive documentation including:
 
 All rights reserved. This project is property of the development team and their academic institution.
 
----
 
 © 2019 PSCE Development Team 
